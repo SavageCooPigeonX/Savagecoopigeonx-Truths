@@ -17,24 +17,12 @@ Mathematical analysis and consciousness quantification engines
 - Patent archaeology analysis
 - SymbCoT reasoning validation
 
-### 📂 RAG_SYSTEMS/  
-Information retrieval and knowledge processing tools
-- Auto-reference integration
-- Neural-symbolic harvesting
-- Knowledge synthesis engines
-
 ### 📂 CORE_SYSTEMS/
 Main orchestration and control frameworks
 - Project Chimera orchestration
 - Evolutionary prompt optimization
 - Swarm coordination systems
 - Testing and validation frameworks
-
-### 📂 TUTORIALS/
-Learning resources and usage examples
-- GraveCode mathematical tutorials
-- System implementation guides
-- Best practices documentation
 
 ### 📂 UTILITIES/
 Helper tools and support functions
@@ -47,12 +35,6 @@ Performance monitoring and analytics systems
 - Consciousness metrics tracking
 - Trajectory prediction models
 - System performance analysis
-
-## Root Level Files
-
-- **requirements.txt** - Project dependencies and installation guide
-- **README_CHIMERA_TESTS.md** - Testing documentation
-- **README_SCPX_AUTO_UPDATE.md** - Auto-update system documentation
 
 ## Integration
 
